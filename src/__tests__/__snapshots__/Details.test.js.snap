@@ -1,0 +1,83 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Details component component match with the snapshot 1`] = `
+<div
+  className="text-center border-0  card"
+>
+  <div
+    className="list-group list-group-flush"
+    onKeyDown={[Function]}
+  >
+    <div
+      className="py-5 d-flex flex-row justify-content-between align-items-center text-white list-group-item list-group-item-flush"
+      data-rr-ui-event-key={null}
+      onClick={[Function]}
+    >
+       
+      <h2
+        className="fs-1 "
+      />
+      <h3
+        className="fs-1"
+      />
+    </div>
+    <div
+      className="text-white  list-group-item"
+      data-rr-ui-event-key={null}
+      onClick={[Function]}
+    >
+      Details
+    </div>
+    <div
+      className="d-flex flex-row justify-content-between align-items-center py-2 text-white list-group-item"
+      data-rr-ui-event-key={null}
+      onClick={[Function]}
+    >
+      <span>
+        Rank:
+      </span>
+      <span>
+        #
+      </span>
+    </div>
+    <div
+      className="d-flex flex-row justify-content-between align-items-center py-5 text-white list-group-item"
+      data-rr-ui-event-key={null}
+      onClick={[Function]}
+    >
+      <span>
+        Price
+         USD
+        :
+      </span>
+      <span>
+         $
+      </span>
+    </div>
+    <div
+      className="d-flex flex-row justify-content-between align-items-center py-5 text-white list-group-item"
+      data-rr-ui-event-key={null}
+      onClick={[Function]}
+    >
+      <span>
+        Volume 24h:
+      </span>
+      <span>
+         $
+      </span>
+    </div>
+    <div
+      className="d-flex flex-row justify-content-between align-items-center py-5 text-white list-group-item"
+      data-rr-ui-event-key={null}
+      onClick={[Function]}
+    >
+      <span>
+        Total Supply:
+      </span>
+      <span>
+         
+      </span>
+    </div>
+  </div>
+</div>
+`;
