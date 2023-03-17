@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Coin component component match with the snapshot 1`] = `
+<a
+  className="cardItem d-flex flex-row justify-content-around"
+  href="/detail/bitcoin"
+  onClick={[Function]}
+>
+  <div>
+    <h2
+      className="symbol fw-bold fs-1 py-3"
+    >
+      BTC
+    </h2>
+  </div>
+  <div
+    className=" fs-5 py-3"
+  >
+    <small>
+      bitcoin
+    </small>
+    <p>
+      $
+      29067.86
+    </p>
+  </div>
+</a>
+`;

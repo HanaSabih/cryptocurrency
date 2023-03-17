@@ -1,0 +1,49 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Coins component component match with the snapshot 1`] = `
+<section>
+  <div
+    className="infos d-none"
+  >
+    <select
+      className="filter"
+      onChange={[Function]}
+    >
+      <option
+        value="price"
+      >
+         Rank 
+      </option>
+      <option
+        value="name"
+      >
+         Name 
+      </option>
+      <option
+        value="vol"
+      >
+         Price 
+      </option>
+    </select>
+    <form
+      onSubmit={[Function]}
+    >
+      <input
+        name="coinSearch"
+        placeholder="Crypto cryto name"
+        required={true}
+        type="text"
+      />
+      <input
+        type="submit"
+        value="Search"
+      />
+    </form>
+  </div>
+  <div>
+    <ul
+      className="d-grid mx-0 px-0 cardContainer"
+    />
+  </div>
+</section>
+`;
