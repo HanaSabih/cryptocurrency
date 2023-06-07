@@ -17,7 +17,7 @@
 - [Live Demo](https://cryptocurrency-jdo1.onrender.com/)
 
 ## presentation
-- [presentation](https://www.loom.com/share/50d3aa8e9cc54256bf43f2b8522581fc)
+- [presentation]()
 
 ## Getting Started
 
